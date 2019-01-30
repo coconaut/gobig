@@ -2,6 +2,6 @@ package client
 
 import "fmt"
 
-func stuff() {
+func Stuff() {
 	fmt.Println("this is the client")
 }
